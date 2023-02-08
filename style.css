@@ -1,0 +1,55 @@
+.foody{
+display:flex;
+justify-content: space-between;
+margin: 1%;
+padding: 10px;
+}
+
+#mynav{
+padding: 1%;
+margin-bottom: 2%;
+}
+.des{
+padding: 2%;
+
+}
+.contact{
+    padding: 2%;
+    color: green;
+    }
+.hi{
+        padding: 2%;
+        
+        }
+ .goo{
+            padding: 2%;
+            color: blue;
+            text-decoration: double;
+            
+            }
+.pics{
+display: flex;
+margin: 2%;
+flex-direction: row;
+width:  18rem;
+padding: 2%;
+
+}
+.pic1{
+    width:  18rem;
+    margin: 10%;
+  }
+.pic2{
+  width:  18rem;
+  margin: 10%;
+}
+.pic3{
+    width:  18rem;
+    margin: 10%;
+}
+.pic4{
+    width:  18rem;
+    margin: 10%;
+}
+
+
